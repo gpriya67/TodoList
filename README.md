@@ -20,7 +20,7 @@ A **simple and responsive ToDo List application** built with **React**. This app
 ## Screenshots
 
 ### Mobile View
-<img src="assets/mobileview.png" alt="Mobile View Screenshot" width="300px">
+<img width="1920" height="903" alt="Image" src="https://github.com/user-attachments/assets/b03226b4-37dc-46f6-9aeb-093e0a3340cd" />
 
 ### Desktop View
 <img width="1920" height="903" alt="Image" src="https://github.com/user-attachments/assets/b03226b4-37dc-46f6-9aeb-093e0a3340cd" />
