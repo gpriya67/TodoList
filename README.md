@@ -20,10 +20,10 @@ A **simple and responsive ToDo List application** built with **React**. This app
 ## Screenshots
 
 ### Mobile View
-![Mobile View](/assets/mobileview.png)
+![Mobile View]<img src='/assets/mobileview.png ' alt="Mobile View Screenshot" width="200px">
 
 ### Desktop View
-![Desktop View](/assets/desktop.png)
+![Desktop View]<img src='/assets/desktop.png' alt='desktop view screenshot' width='200px'>
 
 ---
 
